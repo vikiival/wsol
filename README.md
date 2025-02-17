@@ -6,8 +6,8 @@ applications.
 
 ## [You can use it directly on Solana Playground](https://beta.solpg.io/https://github.com/vikiival/wsol)
 
-> [!IMPORTANT] Read Instructions how to use it on Solana Playground / how to use
-> inputs
+> [!IMPORTANT]
+> Read Instructions how to use it on Solana Playground / how to useinputs
 
 ## Inputs
 
